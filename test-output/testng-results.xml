@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-24T17:55:59 IST" name="Default suite" finished-at="2023-11-24T17:56:17 IST" duration-ms="17816">
+    <groups>
+    </groups>
+    <test started-at="2023-11-24T17:55:59 IST" name="Default test" finished-at="2023-11-24T17:56:17 IST" duration-ms="17816">
+      <class name="TestLayer.TaskOneTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestLayer.TaskOneTest@48075da3]" started-at="2023-11-24T17:55:59 IST" name="setUp" finished-at="2023-11-24T17:56:07 IST" duration-ms="7878" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateSearchCity()[pri:1, instance:TestLayer.TaskOneTest@48075da3]" started-at="2023-11-24T17:56:07 IST" name="validateSearchCity" finished-at="2023-11-24T17:56:08 IST" duration-ms="621" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSearchCity -->
+        <test-method signature="validateSelectCountry()[pri:2, instance:TestLayer.TaskOneTest@48075da3]" started-at="2023-11-24T17:56:08 IST" name="validateSelectCountry" finished-at="2023-11-24T17:56:08 IST" duration-ms="210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSelectCountry -->
+        <test-method signature="validateSelectLocation()[pri:3, instance:TestLayer.TaskOneTest@48075da3]" started-at="2023-11-24T17:56:08 IST" name="validateSelectLocation" finished-at="2023-11-24T17:56:11 IST" duration-ms="3494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSelectLocation -->
+        <test-method signature="validateFilterResult()[pri:4, instance:TestLayer.TaskOneTest@48075da3]" started-at="2023-11-24T17:56:11 IST" name="validateFilterResult" finished-at="2023-11-24T17:56:12 IST" duration-ms="889" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateFilterResult -->
+        <test-method signature="ValidateSelectRoom()[pri:5, instance:TestLayer.TaskOneTest@48075da3]" started-at="2023-11-24T17:56:12 IST" name="ValidateSelectRoom" finished-at="2023-11-24T17:56:14 IST" duration-ms="2178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateSelectRoom -->
+        <test-method signature="validateSelectSharing()[pri:6, instance:TestLayer.TaskOneTest@48075da3]" started-at="2023-11-24T17:56:14 IST" name="validateSelectSharing" finished-at="2023-11-24T17:56:15 IST" duration-ms="959" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSelectSharing -->
+        <test-method signature="validateClickOnSearch()[pri:7, instance:TestLayer.TaskOneTest@48075da3]" started-at="2023-11-24T17:56:15 IST" name="validateClickOnSearch" finished-at="2023-11-24T17:56:16 IST" duration-ms="947" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateClickOnSearch -->
+        <test-method signature="validateClickOnResult()[pri:8, instance:TestLayer.TaskOneTest@48075da3]" started-at="2023-11-24T17:56:16 IST" name="validateClickOnResult" finished-at="2023-11-24T17:56:17 IST" duration-ms="478" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateClickOnResult -->
+        <test-method signature="validateGetTitle()[pri:9, instance:TestLayer.TaskOneTest@48075da3]" started-at="2023-11-24T17:56:17 IST" name="validateGetTitle" finished-at="2023-11-24T17:56:17 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateGetTitle -->
+        <test-method is-config="true" signature="endTask()[pri:0, instance:TestLayer.TaskOneTest@48075da3]" started-at="2023-11-24T17:56:17 IST" name="endTask" finished-at="2023-11-24T17:56:17 IST" duration-ms="75" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTask -->
+      </class> <!-- TestLayer.TaskOneTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

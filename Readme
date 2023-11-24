@@ -1,0 +1,12 @@
+The testing is done on Chrome browser
+The Main folder consist of BaseLayer,ConfigLayer,PageLayer and UtilsLayer
+BaseLayer consists of parent class i.e BaseClass from where intialization of driver and data required for testing is called.
+ConfigLayer consists of data required for  testing
+PageLayer consist of the task needed to peformed
+Main task been completed and tested
+Bonus task one is not completed as I was not able to ignore the cities in All tab, I tried to collect the data but as they are not dependend on selection of country I found it hard to categorize.
+Bonus task  two is not completed as the shortlist button was giving no such element error, i tried with different techniquies but  the result was till the same.
+TestData layer currently it is blank but we can store data to run multiple test validation and input
+UtilsLayer consists of all the methods which are required to perform testing
+In testlayer it consist of the validation test needed to perfom
+If possible can you please provide the method to ignore the all tab & finding duplication in cities & also to shortlist the room
